@@ -3,8 +3,6 @@ Usage of MLFLOW for tracking models experiments (XGBoost) and serve a containeri
 This code performs a grid search for hyperparameter tuning of an XGBoost classifier using the MLflow library. The grid search is performed over a range of parameters (max_depth, scale_pos_weight, learning_rate, and n_estimators).
 
 ## Dependencies
-The following libraries are required to run this code:
-
 - mlflow
 - numpy
 - pandas
