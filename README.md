@@ -5,15 +5,15 @@ This code performs a grid search for hyperparameter tuning of an XGBoost classif
 ## Dependencies
 The following libraries are required to run this code:
 
-mlflow
-numpy
-pandas
-warnings
-json
-os
-product from itertools
-XGBoost
-sklearn
+- mlflow
+- numpy
+- pandas
+- warnings
+- json
+- os
+- product from itertools
+- XGBoost
+- sklearn
 
 ## Results
 The best performing hyperparameters are printed to the console, as well as their corresponding F1 score. Additionally, the results of the grid search are logged to the MLflow tracking server, allowing you to visualize and compare the results of each run. The metrics of each run are stored as JSON files and logged as artifacts to the MLflow server.
