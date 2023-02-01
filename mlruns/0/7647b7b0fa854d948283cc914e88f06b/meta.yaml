@@ -1,0 +1,15 @@
+artifact_uri: file:///home/davide/Desktop/MLFLOW_TEST/MLFLOW_TEST/mlruns/0/7647b7b0fa854d948283cc914e88f06b/artifacts
+end_time: 1675269865267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7647b7b0fa854d948283cc914e88f06b
+run_name: First grid-search
+run_uuid: 7647b7b0fa854d948283cc914e88f06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675269864255
+status: 3
+tags: []
+user_id: davide
